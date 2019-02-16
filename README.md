@@ -21,6 +21,8 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 @plymgamedevs, <https://t.co/fTuBuU9nVB>
 
+@dcglug, <https://www.dcglug.org.uk/meetings/>
+
 <https://www.meetup.com/SQL-South-West/>
 
 ### Cornwall
@@ -28,7 +30,11 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 @swcornwall, <https://softwarecornwall.org/events/>
 
+@cornwalltechjam, <https://www.cornwalltechjam.uk/>
+
 <http://meetup.com/datasciencecornwall/>
+
+<https://www.meetup.com/Cornwall-Digital/>
 
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
