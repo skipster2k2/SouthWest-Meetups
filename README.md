@@ -5,40 +5,40 @@ List of digital and tech meetups and conferences in the southwest of England
 ### Devon
 @digitalexeter, <https://meetup.com/Digital-Exeter>
 
-@techexeter, https://meetup.com/techexeter/
+@techexeter, <https://meetup.com/techexeter/>
 
-@DataSciExeter, https://meetup.com/Data-Science-Exeter/
+@DataSciExeter, <https://meetup.com/Data-Science-Exeter/>
 
-@digitalplymouth, https://digitalplymouth.com
+@digitalplymouth, <https://digitalplymouth.com>
 
-@plymweb, https://meetup.com/Plymouth-Web/
+@plymweb, <https://meetup.com/Plymouth-Web/>
 
-@PropellerExm, https://meetup.com/Propeller-Exmouth/
+@PropellerExm, <https://meetup.com/Propeller-Exmouth/>
 
-@designplym, https://plymouthdesignforum.co.uk
+@designplym, <https://plymouthdesignforum.co.uk>
 
 @plymouthjs, quarterly, next event TBA
 
-@plymgamedevs, https://t.co/fTuBuU9nVB
+@plymgamedevs, <https://t.co/fTuBuU9nVB>
 
-https://www.meetup.com/SQL-South-West/
+<https://www.meetup.com/SQL-South-West/>
 
 ### Cornwall
-@kernowdat, https://kernowdat.co.uk/
+@kernowdat, <https://kernowdat.co.uk/>
 
-@swcornwall, https://softwarecornwall.org/events/
+@swcornwall, <https://softwarecornwall.org/events/>
 
-http://meetup.com/datasciencecornwall/
+<http://meetup.com/datasciencecornwall/>
 
 ### Somerset
-@digitaltaunton, https://www.meetup.com/digitaltaunton/
+@digitaltaunton, <https://www.meetup.com/digitaltaunton/>
 
 ## Annual Events
-@AGILEONTHEBEACH - https://agileonthebeach.com/
+@AGILEONTHEBEACH - <https://agileonthebeach.com/>
 
-@TechExeter - https://conference.techexeter.uk
+@TechExeter - <https://conference.techexeter.uk>
 
-@FutureSyncConf - https://t.co/UbfcgIgRGT
+@FutureSyncConf - <https://t.co/UbfcgIgRGT>
 
 ## Orgs with a few designers/ researchers/ product / delivery peeps
 * HM Land Registry, Plymouth
