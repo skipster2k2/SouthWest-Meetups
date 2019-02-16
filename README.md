@@ -30,6 +30,8 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 <http://meetup.com/datasciencecornwall/>
 
+<https://www.meetup.com/coderdojocornwall/>
+
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
 
