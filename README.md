@@ -28,7 +28,7 @@ https://www.meetup.com/SQL-South-West/
 
 @swcornwall, https://softwarecornwall.org/events/
 
-meetup.com/datasciencecornwall/
+http://meetup.com/datasciencecornwall/
 
 ### Somerset
 @digitaltaunton, https://www.meetup.com/digitaltaunton/
