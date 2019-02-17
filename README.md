@@ -23,7 +23,9 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 @dcglug, <https://www.dcglug.org.uk/meetings/>
 
-<https://www.meetup.com/SQL-South-West/>
+SQL South West, <https://www.meetup.com/SQL-South-West/>
+
+Product Tank Exeter, <https://www.meetup.com/ProductTank-Exeter/>
 
 ### Cornwall
 @kernowdat, <https://kernowdat.co.uk/>
@@ -32,20 +34,22 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 @cornwalltechjam, <https://www.cornwalltechjam.uk/>
 
-<http://meetup.com/datasciencecornwall/>
+Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 <https://www.meetup.com/Cornwall-Digital/>
 
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
 
+Taunton Developers, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
+
 ## Annual Events
 @AGILEONTHEBEACH - <https://agileonthebeach.com/>
 
 @TechExeter - <https://conference.techexeter.uk>
 
-@FutureSyncConf - <https://t.co/UbfcgIgRGT>
-
+@FutureSyncConf - <https://futuresync.co.uk/>
+  
 ## Orgs with a few designers/ researchers/ product / delivery peeps
 * HM Land Registry, Plymouth
 * Met Office, Exeter
