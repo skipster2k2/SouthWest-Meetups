@@ -38,6 +38,8 @@ Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 <https://www.meetup.com/Cornwall-Digital/>
 
+<https://www.meetup.com/coderdojocornwall/>
+
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
 
