@@ -36,9 +36,9 @@ Product Tank Exeter, <https://www.meetup.com/ProductTank-Exeter/>
 
 Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
-Cornwall Digital, <https://www.meetup.com/Cornwall-Digital/>
+@cornwalldigital, <https://www.meetup.com/Cornwall-Digital/>
 
-Coder Dojo Cornwall, <https://www.meetup.com/coderdojocornwall/>
+@CoderDojoKernow, <https://www.meetup.com/coderdojocornwall/>
 
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
