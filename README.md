@@ -23,6 +23,8 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 <https://www.meetup.com/SQL-South-West/>
 
+<https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
+
 ### Cornwall
 @kernowdat, <https://kernowdat.co.uk/>
 
