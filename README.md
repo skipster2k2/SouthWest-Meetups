@@ -42,8 +42,8 @@ Taunton Developers, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
 
 @TechExeter - <https://conference.techexeter.uk>
 
-@FutureSyncConf - <https://t.co/UbfcgIgRGT>
-
+@FutureSyncConf - <https://futuresync.co.uk/>
+  
 ## Orgs with a few designers/ researchers/ product / delivery peeps
 * HM Land Registry, Plymouth
 * Met Office, Exeter
