@@ -23,8 +23,6 @@ List of digital and tech meetups and conferences in the southwest of England #So
 
 SQL South West, <https://www.meetup.com/SQL-South-West/>
 
-Taunton Develops, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
-
 Product Tank Exeter, <https://www.meetup.com/ProductTank-Exeter/>
 
 ### Cornwall
@@ -32,10 +30,12 @@ Product Tank Exeter, <https://www.meetup.com/ProductTank-Exeter/>
 
 @swcornwall, <https://softwarecornwall.org/events/>
 
-<http://meetup.com/datasciencecornwall/>
+Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
+
+Taunton Developers, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
 
 ## Annual Events
 @AGILEONTHEBEACH - <https://agileonthebeach.com/>
