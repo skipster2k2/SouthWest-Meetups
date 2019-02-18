@@ -47,14 +47,14 @@ Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 Taunton Developers, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
 
-DDD South West, <https://dddsouthwest.com/>
-
 ## Annual Events
-@AGILEONTHEBEACH - <https://agileonthebeach.com/>
+@AGILEONTHEBEACH - <https://agileonthebeach.com/> - Penryn, Cornwall
 
-@TechExeter - <https://conference.techexeter.uk>
+@TechExeter - <https://conference.techexeter.uk> - Exeter, Devon
 
-@FutureSyncConf - <https://futuresync.co.uk/>
+@FutureSyncConf - <https://futuresync.co.uk/> - Plymouth, Devon
+
+@dddsw - <https://dddsouthwest.com/> - Bristol
   
 ## Orgs with a few designers/ researchers/ product / delivery peeps
 * HM Land Registry, Plymouth
