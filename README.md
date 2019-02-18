@@ -40,7 +40,7 @@ Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 @CoderDojoKernow, <https://www.meetup.com/coderdojocornwall/>
 
-@cornwallgeeks https://join.cornwallgeeks.net/
+@cornwallgeeks <https://join.cornwallgeeks.net/>
 
 ### Somerset
 @digitaltaunton, <https://www.meetup.com/digitaltaunton/>
