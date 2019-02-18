@@ -47,6 +47,8 @@ Data Science Cornwall, <http://meetup.com/datasciencecornwall/>
 
 Taunton Developers, <https://www.meetup.com/Taunton-and-area-Developers-Meetup/>
 
+DDD South West, <https://dddsouthwest.com/>
+
 ## Annual Events
 @AGILEONTHEBEACH - <https://agileonthebeach.com/>
 
